@@ -2,7 +2,7 @@
 void main()
 {
     char str1[100],str2[100];
-    int ,count=0,count1=0,flag=0,i=0,j=0;
+    int count=0,count1=0,flag=0,i=0,j=0;
     printf("enter first string");
     gets(str1);
     printf("enter second string");
