@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main(void)
 {
-    char str[10],revstr[10]={'\0'},i,length=0,flag;
+    char str[10],revstr[10]={'\0'};
+    int i,length=0,flag;
     printf("enter astring");
     scanf("%s",str);
     printf("%s",str);
